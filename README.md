@@ -1,3 +1,3 @@
 # Tableau-Project
 
-This folder contains the files for my COVID-19 Cases & Factor Exploration Project via Tableau dashboard and story. 
+This folder contains the files for my COVID-19 Severity & Factors Exploration Project via Tableau dashboard and story. 
